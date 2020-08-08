@@ -1,6 +1,6 @@
 # Jutge AP3 GCED
 
-Recull de programes del jutge de l'assignatura d'Informàtica de la FME, UPC.
+Recull de programes del jutge de l'assignatura d'Algorísmia i Programació III del GCED, UPC.
 
 ## Hi són tots els problemes?
 
