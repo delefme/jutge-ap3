@@ -1,6 +1,5 @@
 ```diff
-- Llista incompleta
++ Llista completa! :smile:
 ```
-# Falten els següents problemes d'aquesta llista:
 
-Si els tens fets o coneixes a algú que els té, no dubtis a penjar-los!
+Si creus que el teu s'entèn millor i és un verd, no dubtis a canviar-lo! :wink:
