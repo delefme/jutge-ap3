@@ -1,7 +1,5 @@
 ```diff
-- Llista incompleta
++ Llista completa! :)
 ```
-# Falten els següents problemes d'aquesta llista:
-- From one to en III
 
-Si els tens fets o coneixes a algú que els té, no dubtis a penjar-los!
+Si creus que el teu s'entèn millor i és un verd, no dubtis a canviar-lo! :wink:
