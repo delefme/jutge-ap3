@@ -4,7 +4,7 @@ Recull de programes del jutge de l'assignatura d'Algorísmia i Programació III 
 
 ## Hi són tots els problemes?
 
-No tots! Mireu a cada carpeta el README. Si creus que tens un problema que està més ben escrit o que s'entén millor que el què ja existeix, no dubtis en editar el repositori, per això és públic.
+De moment sí! :smile: Mireu a cada carpeta el README. Si creus que tens un problema que està més ben escrit o que s'entén millor que el què ja existeix, no dubtis en editar el repositori, per això és públic.
 
 ## Ús i raó de l'existència del repositori
 
